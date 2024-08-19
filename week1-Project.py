@@ -1,4 +1,4 @@
-import  random
+import random
 print("WELCOME TO ROCK! PAPER! SCISSORS! GAME")
 intro = input("what is your name?")
 print("welcome to the game", intro)
