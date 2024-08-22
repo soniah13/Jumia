@@ -9,7 +9,7 @@ lives = 6
 gen_word = random.choice(words).lower()
 show = []
 for i in range(len(gen_word)):
-    show += "_"
+    show += '_'
 print(show)
 game_over = False
 while not game_over:
