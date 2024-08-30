@@ -16,6 +16,6 @@ for data in articles:
     print(data.get_text())
 # print(product_data)
 # edited_data = [data.replace('%', '% ') for data in product_data]
-# print(edited_data)
+
 
 
